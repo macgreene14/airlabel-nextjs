@@ -123,10 +123,9 @@ export default function Hero() {
             </h1>
             <div className="mt-6 max-w-xl lg:mt-0 xl:col-end-1 xl:row-start-1">
               <p className="text-lg leading-8 text-gray-600">
-                Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui
-                lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat
-                fugiat aliqua. Anim aute id magna aliqua ad ad non deserunt
-                sunt. Qui irure qui lorem cupidatat commodo.
+                Airlabel is a PDF label generator with support for creating QR
+                codes. The service accepts HTML, and returns a secure link for
+                downloading the PDF.
               </p>
               <div className="mt-10 flex items-center gap-x-6">
                 <a
